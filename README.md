@@ -1,4 +1,4 @@
-# Rubiks-Detector
+# Rubik's Cube Detector
 A simple program detecting Rubik's Cubes inside images
 
 ![Rubik's Cubes Detector Preview](preview.jpg)
@@ -25,3 +25,6 @@ the required tools on a different platform (MEGA).
 
 You can download the whole archive (Code::Blocks, OpenCV and Qt5) alongside a configuration guide 
 [clicking here](https://mega.nz/#!MBM2jDLI!bQlDFwBV1tw44f0DQE9TpLObNn6fJaroYd1UzNy_buE) (3.3GB)
+
+## Acknowledgments
+Thanks to [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/) for his report [Extracting sticker colors on Rubik’s Cube, CPSC525 Project Report](http://www.cs.ubc.ca/andrejk/525project/) (Link offline, a copy of his report is inside "docs" folder in order to preserve it, all rights reserved to the creator)
