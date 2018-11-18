@@ -5,7 +5,7 @@ A simple program detecting Rubik's Cubes inside images
 
 |License|Issues|
 |---------|---------|
-| [![License GNU v3 Button](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/subwave07/Rubiks-Detector/blob/master/LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](https://github.com/subwave07/Rubiks-Detector/issues)|
+| [![License GNU v3 Button](https://img.shields.io/badge/License-GNU%20v3-green.svg)](https://github.com/subwave07/Rubiks-Detector/blob/master/LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](https://github.com/subwave07/Rubiks-Detector/issues)|
 
 ## Abstract
 I was able to follow a course of Image Data Mining held by Professor Piergiorgio Lanza during my Master 
